@@ -1,4 +1,3 @@
-```markdown
 # E-Vacuum Cleaner Project
 
 ## Abstract
@@ -61,5 +60,5 @@ The E-Vacuum Cleaner is a smart, mobile-controlled vacuum bot designed using an 
 
 ## Conclusion
 This E-Vacuum Cleaner project successfully combines robotics and automation to create a functional, mobile-controlled vacuum bot. With further improvements, it can evolve into a fully autonomous cleaning solution. This project serves as a foundational step in developing smart home cleaning robots.
-```
+
 
